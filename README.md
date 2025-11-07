@@ -16,7 +16,6 @@ This project demonstrates a fully functional mock shopping experience — develo
 - 🎨 **Responsive UI** – Built with TailwindCSS and shadcn-ui for a modern look.  
 - ⚙️ **Component-Based Architecture** – Clean and reusable React components.  
 - 🔄 **Real-Time Cart Updates** – Dynamic cart management without reloads.  
-- 🤖 **Lovable AI Integration** – Fully AI-generated and editable in [Lovable.dev](https://lovable.dev).  
 
 ---
 
